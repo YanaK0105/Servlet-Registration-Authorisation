@@ -1,0 +1,47 @@
+body{
+    margin:0 auto;
+    background:#f7f6da;
+    display: flex;
+    justify-content: center;
+}
+
+.aufForm{
+    background:#d0edb9;
+    width: 35%;
+    padding: 10px;
+    margin: 100;
+    font-size: 20px;
+    justify-content: center
+}
+
+.name{
+    color:607070;
+    display:flex;
+    justify-content: center;
+
+}
+
+a:link.link{
+text-decoration: none;
+
+}
+
+a:visited.link {
+color: red;
+
+}
+
+a:visited.link {
+color: #1fc43b;
+
+}
+
+div a {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+.submitBotton{
+    display:flex;
+    justify-content: center;
+}

@@ -1,0 +1,27 @@
+body{
+    margin:0 auto;
+    background:#f7f6da;
+    display: flex;
+    justify-content: center;
+}
+
+.regForm{
+    background:#d0edb9;
+    width: 35%;
+    padding: 10px;
+    margin: 100;
+    font-size: 20px;
+    justify-content: center
+}
+
+.name{
+    color:607070;
+    display:flex;
+    justify-content: center;
+
+}
+
+.submitBotton{
+    display:flex;
+    justify-content: center;
+}

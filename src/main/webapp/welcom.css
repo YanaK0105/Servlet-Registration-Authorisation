@@ -1,0 +1,25 @@
+body{
+    background:#ffdab9;
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+}
+div a {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+a:link.link{
+text-decoration: none;
+}
+
+a:visited.link {
+color: red;
+}
+
+a:visited.link {
+color: #1fc43b;
+}
+
+
